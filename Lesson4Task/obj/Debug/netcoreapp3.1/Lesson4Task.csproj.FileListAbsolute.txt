@@ -1,0 +1,11 @@
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\bin\Debug\netcoreapp3.1\Lesson4Task.exe
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\bin\Debug\netcoreapp3.1\Lesson4Task.deps.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\bin\Debug\netcoreapp3.1\Lesson4Task.runtimeconfig.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\bin\Debug\netcoreapp3.1\Lesson4Task.runtimeconfig.dev.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\bin\Debug\netcoreapp3.1\Lesson4Task.dll
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\bin\Debug\netcoreapp3.1\Lesson4Task.pdb
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\obj\Debug\netcoreapp3.1\Lesson4Task.csprojAssemblyReference.cache
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\obj\Debug\netcoreapp3.1\Lesson4Task.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\obj\Debug\netcoreapp3.1\Lesson4Task.AssemblyInfo.cs
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\obj\Debug\netcoreapp3.1\Lesson4Task.dll
+C:\Users\Master\Documents\GitHub\Lessons\Lesson4Task\obj\Debug\netcoreapp3.1\Lesson4Task.pdb

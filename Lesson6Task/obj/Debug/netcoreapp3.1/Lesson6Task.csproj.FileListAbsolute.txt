@@ -1,0 +1,11 @@
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\bin\Debug\netcoreapp3.1\Lesson6Task.exe
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\bin\Debug\netcoreapp3.1\Lesson6Task.deps.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\bin\Debug\netcoreapp3.1\Lesson6Task.runtimeconfig.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\bin\Debug\netcoreapp3.1\Lesson6Task.runtimeconfig.dev.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\bin\Debug\netcoreapp3.1\Lesson6Task.dll
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\bin\Debug\netcoreapp3.1\Lesson6Task.pdb
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\obj\Debug\netcoreapp3.1\Lesson6Task.csprojAssemblyReference.cache
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\obj\Debug\netcoreapp3.1\Lesson6Task.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\obj\Debug\netcoreapp3.1\Lesson6Task.AssemblyInfo.cs
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\obj\Debug\netcoreapp3.1\Lesson6Task.dll
+C:\Users\Master\Documents\GitHub\Lessons\Lesson6Task\obj\Debug\netcoreapp3.1\Lesson6Task.pdb
