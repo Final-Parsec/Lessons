@@ -29,43 +29,23 @@ namespace Lesson1
         // The code between the {} is the first section of code that will run.
         static void Main(string[] args)
         {
-            // This is a single line comment. It has no effect on the program.
-            // It is used to write notes about what the code is doing.
-            // ↓↓ Write a comment with your name and today's date under this line ↓↓
-
-
-            /*
-               This is a block comment.
-               It can be used for multi lined comments.
-
-               Make a NEW Block comment under this line 
-               with your name and today's date on seperate lines
-
-               ↓    ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓
-             */
-
-
-            // I'll start out with an example.
-            // This variable is named introText and holds a string data type.
-            // Use the equalsign(=) to set the variable's value.  = Is called the assignment operator
-            string introText = "Variables!"; //  <-- end lines of code with a ;
-            Console.WriteLine("Today I'm going to learn " + introText);
-
-
             //Make a variable named myName with the string data type.
             //Set the variable equal to your name.
             //Display the text 'Hello, My name is <myName>'
-
+            string myName = "Matt Bauer";
+            Console.WriteLine("Hello, My name is " + myName);
 
             //Make a variable named myAge with the int data type.
             //Set the variable equal to your age.
             //Display the text 'I am <myAge>'
-
+            int myAge = 29;
+            Console.WriteLine("I am " + myAge);
 
             //Make a variable named someDecimal with the decimal data type.
             //Set the variable equal to a number between 0 and 1. ex: .223
-            //Display the text 'A number btween 0 and 1 is <someDecimal>'
-
+            //Display the text 'A number between 0 and 1 is <someDecimal>'
+            double someDecimal = .1;
+            Console.WriteLine("A number between 0 and 1 is " + someDecimal);
 
         } // This curly brace ends Main 
     } // This curly brace ends VariablesTask

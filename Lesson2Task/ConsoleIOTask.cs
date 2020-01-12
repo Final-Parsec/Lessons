@@ -4,7 +4,7 @@
 * (Hint: a Verb is an action. A noun is a person/place/thing.
 * An adjective describes a person/place/thing.)
 * 
-* NOTE: Be sure that you have proper spaceing between the inserted words and the concatenated.
+* NOTE: Be sure that you have proper spaceing between words.
 * 
 * Example Output:
 *   Enter Occupation(a job): Gardener
@@ -18,13 +18,13 @@
 *   Enter Noun4: Gloves
 *   Enter Verb3: Fall
 *   
-*   Today a <Gardener> named <Gloves> came to our school to talk to us about her job.
+*   Today a <Occupation> named <Noun4> came to our school to talk to us about her job.
 *   She said the most important skill you need to know to do her job is to be able
-*   to Run around (a) <Blue> <Boots>.
-*   She said it was easy for her to learn her job because she loved to <Fight> when she was my age--
+*   to <Verb2> around (a) <Adjective1> <Noun3>.
+*   She said it was easy for her to learn her job because she loved to <Verb1> when she was my age--
 *   and that helps a lot! If you're considering her profession,
-*   I hope you can be near (a) <Happy> <Bird>. That's very important!
-*   If you get too distracted in that situation you won't be able to <Fall> next to (a) <Hat>!
+*   I hope you can be near (a) <Adjective2> <Noun1>. That's very important!
+*   If you get too distracted in that situation you won't be able to <Verb3> next to (a) <Noun2>!
 *   
 *********************
 * Credit to Steve Hanson https://www.glowwordbooks.com/blog/2016/04/19/online-kids-mad-libs-about-jobs/

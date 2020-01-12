@@ -17,19 +17,19 @@ namespace Lesson5
             }
 
             //*********************************************
-            //Console.Write("Enter number1: ");
-            //int number1 =  Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter x: ");
+            //int x =  Convert.ToInt32(Console.ReadLine());
 
-            //Console.Write("Enter number2: ");
-            //int number2 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter y: ");
+            //int y = Convert.ToInt32(Console.ReadLine());
 
-            //if (number1 > number2)
+            //if (x > y)
             //{
-            //    Console.WriteLine("number1 is bigger than number2.");
+            //    Console.WriteLine("x is bigger than y.");
             //}
-            //else if (number2 > number1)
+            //else if (y > x)
             //{
-            //    Console.WriteLine("number2 is bigger than number1.");
+            //    Console.WriteLine("y is bigger than x.");
             //}
             //else
             //{
@@ -39,25 +39,25 @@ namespace Lesson5
 
 
             Console.WriteLine("What planet are we on?");
-            string planetAnswer = Console.ReadLine();
+            string planet = Console.ReadLine();
 
-            if (planetAnswer == "Earth")
+            if (planet == "Earth")
             {
                 Console.WriteLine("Earth is correct");
             }
             else
             {
-                Console.WriteLine(planetAnswer + " is wrong");
+                Console.WriteLine(planet + " is wrong");
             }
 
             //************************************************
 
             Console.WriteLine("How many sides are on a cube?");
-            int cubeAnswer = Convert.ToInt32(Console.ReadLine());
+            int sides = Convert.ToInt32(Console.ReadLine());
 
-            if (cubeAnswer != 6)
+            if (sides != 6)
             {
-                Console.WriteLine(cubeAnswer + " is wrong");
+                Console.WriteLine(sides + " is wrong");
             }
             else
             {

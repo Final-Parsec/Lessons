@@ -1,8 +1,8 @@
 ﻿/*
 * TASK:
-* Below, you will see comparison statements written in english.
-* For example, seven is greater than nine.
-* Concatenate onto the string the logical comparison, (7 > 9)
+* Below, you will see comparison statements written in english being displayed by Console.WriteLine.
+* Make a bool variable that executes the comparison described in the Console.WriteLine.
+* Then concatinate the bool to the end of the string.
 */
 
 using System;
@@ -13,15 +13,15 @@ namespace Lesson4Task
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Seven is greater than nine: ");
-            Console.WriteLine("twelve is less than fifteen: ");
-            Console.WriteLine("ninety one is greater than or equal to nineteen: ");
+            Console.WriteLine("7 is greater than 9: ");
+            Console.WriteLine("12 is less than 15: ");
+            Console.WriteLine("91 is greater than or equal to 19: ");
 
-            Console.WriteLine("one point two is not equal to six point six: "); // ex. 1.2, 6.6
-            Console.WriteLine("seventeen point nine is less than or equal to seventeen point nine one: ");
-            Console.WriteLine("Seven point five is greater than seven point four: ");
+            Console.WriteLine("1.2 is not equal to 6.6: ");
+            Console.WriteLine("17.9 is less than or equal to 17.91: ");
+            Console.WriteLine("7.5 is greater than 7.4: ");
 
-            Console.WriteLine("ball equals BALL: "); // ex. the string "ball" and "BALL"
+            Console.WriteLine("ball equals BALL: ");
             Console.WriteLine("cup equals cup: ");
             Console.WriteLine("pan is not equal to Pan: ");
         }
