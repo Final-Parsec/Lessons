@@ -17,10 +17,10 @@ namespace Lesson5
             }
 
             //*********************************************
-            //Console.WriteLine("Enter x: ");
+            //Console.Write("Enter x: ");
             //int x =  Convert.ToInt32(Console.ReadLine());
 
-            //Console.WriteLine("Enter y: ");
+            //Console.Write("Enter y: ");
             //int y = Convert.ToInt32(Console.ReadLine());
 
             //if (x > y)
@@ -68,8 +68,9 @@ namespace Lesson5
 
             Console.WriteLine("Input a number greater than 9.0");
             double nineAnswer = Convert.ToDouble(Console.ReadLine());
+            bool isCorrect = nineAnswer > 9.0;
 
-            if (nineAnswer > 9.0)
+            if (isCorrect)
             {
                 Console.WriteLine(nineAnswer + " is correct");
             }

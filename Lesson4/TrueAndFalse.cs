@@ -25,6 +25,22 @@ namespace Lesson4
              * <=,  LESS THAN OR EQUAL TO
              */
 
+            Console.WriteLine("7 IS EQUAL TO 7:\t");
+
+            Console.WriteLine("7 IS NOT EQUAL TO 7:\t");
+
+            Console.WriteLine("99 IS GREATER THAN 1:\t");
+
+            Console.WriteLine("99 IS LESS THAN 1:\t");
+
+            Console.WriteLine("2 IS GREATER THAN OR EQUAL TO 1:\t");
+
+            Console.WriteLine("2 IS LESS THAN OR EQUAL TO 2:\t");
+
+            Console.WriteLine("cup IS EQUAL TO CUP:\t");
+
+
+
             bool value1 = 7 == 7;
             Console.WriteLine("7 IS EQUALE TO 7:\t" + value1);
 

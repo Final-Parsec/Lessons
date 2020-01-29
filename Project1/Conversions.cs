@@ -28,6 +28,9 @@
 *       1: Kilometers to Miles
 *       2: Miles to Kilometers
 *       1
+*       
+*       Enter an amount to convert:
+*       1
 *       1 Kilometer(s) is 0.62137 Mile(s)
 *       
 *   After the answer is displayed the program will keep looping untill the user selects 0 to Exit.
@@ -41,6 +44,9 @@
 *       
 *       1: Kilometers to Miles
 *       2: Miles to Kilometers
+*       1
+*       
+*       Enter an amount to convert:
 *       1
 *       1 Kilometer(s) is 0.62137 Mile(s)
 *       
@@ -59,11 +65,11 @@
 *       Kilometer to Mile:      mi = km * 0.62137
 *       Mile to Kilometer:      km = mi / 0.62137
 *       
-*       Kilogram to Pound:      lb = kg * 2.2046
-*       Pound to Kilogram:      kg = lb / 2.2046
-*       
 *       Celsius to Fahrenheit:  F = (C * 1.8) + 32
 *       Fahrenheit to Celsius:  C = (F - 32) / 1.8
+*       
+*       Kilogram to Pound:      lb = kg * 2.2046
+*       Pound to Kilogram:      kg = lb / 2.2046
 */
 
 
