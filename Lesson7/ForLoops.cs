@@ -7,24 +7,23 @@ namespace Lesson7
         static void Main(string[] args)
         {
 
-            //int x = 0;
-            //x = x + 1; // x = 1
-            //x++;       // x = 2
-            //x++;       // x = 3
-            //Console.WriteLine("x = " + x);
-            //x--;       // x = 2
-            //Console.WriteLine("x = " + x);
+            int x = 0;
+            x = x + 1; // x = 1
+            x++;       // x = 2
+            x++;       // x = 3
+            Console.WriteLine("x = " + x);
+            x--;       // x = 2
+            Console.WriteLine("x = " + x);
 
-            //int y = 0;
-            //y = y + 2;  // y = 2
-            //y += 2;     // y = 4
-            //Console.WriteLine("y = " + y);
-            //y -= 3; // y = 1
-            //Console.WriteLine("y = " + y);
+            int y = 0;
+            y = y + 2;  // y = 2
+            y += 2;     // y = 4
+            Console.WriteLine("y = " + y);
+            y -= 3; // y = 1
+            Console.WriteLine("y = " + y);
 
             //  /=
-            //  *= 
-
+            //  *=
 
             // Modify the same loop instead of making new ones
             int a = 0;
@@ -57,6 +56,14 @@ namespace Lesson7
             for (int d = 50; d >= 40; d--)
             {
                 Console.Write("| d = " + d);
+            }
+
+            Console.WriteLine();
+
+
+            for (int e = 1; e <= 125; e = e * 5)
+            {
+                Console.Write("| e = " + e);
             }
 
         }

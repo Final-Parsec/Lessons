@@ -1,0 +1,10 @@
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\obj\Debug\netcoreapp3.1\donatquestion.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\obj\Debug\netcoreapp3.1\donatquestion.AssemblyInfo.cs
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\bin\Debug\netcoreapp3.1\donatquestion.exe
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\bin\Debug\netcoreapp3.1\donatquestion.deps.json
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\bin\Debug\netcoreapp3.1\donatquestion.runtimeconfig.json
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\bin\Debug\netcoreapp3.1\donatquestion.runtimeconfig.dev.json
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\bin\Debug\netcoreapp3.1\donatquestion.dll
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\bin\Debug\netcoreapp3.1\donatquestion.pdb
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\obj\Debug\netcoreapp3.1\donatquestion.dll
+C:\Users\Master\Documents\GitHub\Lessons\donatquestion\obj\Debug\netcoreapp3.1\donatquestion.pdb

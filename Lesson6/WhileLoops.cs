@@ -19,21 +19,40 @@ namespace Lesson6
             //}
 
             int numberOfLoops = 0;
+
             while (numberOfLoops < 10) // while(true)
             {
                 numberOfLoops = numberOfLoops + 1;
                 Console.WriteLine("numberOfLoops: " + numberOfLoops);
             }
 
+            string userInput;
 
-            Console.WriteLine("Type 'exit' to end the program.");
-            string userInput = Console.ReadLine();
-
-            while (userInput != "exit") 
+            do
             {
-                Console.WriteLine("You did not enter 'exit'");
+                Console.WriteLine();
+                Console.WriteLine("1: Cows go");
+                Console.WriteLine("2: Cats go");
+                Console.WriteLine("3: EXIT");
+                Console.Write("Choose an action: ");
+
                 userInput = Console.ReadLine();
-            }
+
+                if (userInput == "1")
+                {
+                    Console.WriteLine("Mooooo");
+                }
+                else if (userInput == "2")
+                {
+                    Console.WriteLine("Meow");
+                }
+                else if (userInput != "3")
+                {
+                    Console.WriteLine("Your choice is not valid");
+                }
+
+            } while (userInput != "3");
+
         }
     }
 }

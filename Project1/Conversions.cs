@@ -31,7 +31,7 @@
 *       
 *       Enter an amount to convert:
 *       1
-*       1 Kilometer(s) is 0.62137 Mile(s)
+*       5 Kilometer(s) is 3.10686 Mile(s)
 *       
 *   After the answer is displayed the program will keep looping untill the user selects 0 to Exit.
 *       
@@ -48,7 +48,7 @@
 *       
 *       Enter an amount to convert:
 *       1
-*       1 Kilometer(s) is 0.62137 Mile(s)
+*       5 Kilometer(s) is 3.10686 Mile(s)
 *       
 *       Would you like to convert:
 *       1: Distance

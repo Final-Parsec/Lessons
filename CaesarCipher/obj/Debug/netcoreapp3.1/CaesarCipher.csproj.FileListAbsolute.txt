@@ -1,0 +1,11 @@
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.exe
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.deps.json
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.json
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.dev.json
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.pdb
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfo.cs
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\Master\Documents\GitHub\Lessons\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.pdb

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Master\\Documents\\GitHub\\Lessons\\Lesson7Task\\Lesson7Task.csproj",
-      "projectName": "Lesson7Task",
-      "projectPath": "C:\\Users\\Master\\Documents\\GitHub\\Lessons\\Lesson7Task\\Lesson7Task.csproj",
+      "projectUniqueName": "C:\\Users\\Master\\Documents\\GitHub\\Lessons\\Lesson7Task\\Lesson07Task.csproj",
+      "projectName": "Lesson07Task",
+      "projectPath": "C:\\Users\\Master\\Documents\\GitHub\\Lessons\\Lesson7Task\\Lesson07Task.csproj",
       "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Master\\Documents\\GitHub\\Lessons\\Lesson7Task\\obj\\",
       "projectStyle": "PackageReference",

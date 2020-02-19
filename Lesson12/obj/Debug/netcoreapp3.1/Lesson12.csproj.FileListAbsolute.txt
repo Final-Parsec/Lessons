@@ -1,0 +1,11 @@
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\bin\Debug\netcoreapp3.1\Lesson12.exe
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\bin\Debug\netcoreapp3.1\Lesson12.deps.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\bin\Debug\netcoreapp3.1\Lesson12.runtimeconfig.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\bin\Debug\netcoreapp3.1\Lesson12.runtimeconfig.dev.json
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\bin\Debug\netcoreapp3.1\Lesson12.dll
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\bin\Debug\netcoreapp3.1\Lesson12.pdb
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.AssemblyInfoInputs.cache
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.AssemblyInfo.cs
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.dll
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.pdb
+C:\Users\Master\Documents\GitHub\Lessons\Lesson12\obj\Debug\netcoreapp3.1\Lesson12.csprojAssemblyReference.cache

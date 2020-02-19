@@ -21,7 +21,7 @@
 
 using System;
 
-namespace Lesson6Task
+namespace Lesson7Task
 {
     class ForLoopTask
     {
